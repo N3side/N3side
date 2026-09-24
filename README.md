@@ -1,31 +1,14 @@
-<p align="center">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Go" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="SQL" />
-</p>
+### Languages
+![Python](https://shields.io) ![Go](https://shields.io) ![TypeScript](https://shields.io) ![SQL](https://shields.io)
 
-<p align="center">
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Tailwind CSS" />
-  <img src="https://shields.io" alt="Feature-Sliced Design" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-</p>
+### Frontend
+![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://shields.io) ![Tailwind CSS](https://shields.io) ![FSD](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
 
-<p align="center">
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Redis" />
-</p>
+### Databases
+![PostgreSQL](https://shields.io) ![MySQL](https://shields.io) ![Redis](https://shields.io)
 
-<p align="center">
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Linux" />
-</p>
+### DevOps
+![Docker](https://shields.io) ![Linux](https://shields.io)
 
-<p align="center">
-  <img src="https://shields.io" alt="JetBrains" />
-  <img src="https://shields.io" alt="VS Code" />
-</p>
+### IDE
+![JetBrains](https://shields.io) ![VS Code](https://shields.io)
